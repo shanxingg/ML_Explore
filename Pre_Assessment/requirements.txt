@@ -1,0 +1,9 @@
+pytest
+pylint
+jupyter
+pytest-cov
+pandas
+nbval
+matplotlib
+statsmodels
+seaborn
