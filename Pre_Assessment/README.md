@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/shanxingg/BAX452-Pre-Assessment-Quiz.svg?style=svg)](https://circleci.com/gh/shanxingg/BAX452-Pre-Assessment-Quiz)
 
-# BAX452-Pre-Assessment-Project
+# BAX452-Pre-Assessment-Assignment
 
 Please submit a Github Repository with a Jupyter Notebook that contains the following items:
 
